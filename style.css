@@ -57,6 +57,10 @@ button {
 
 }
 
-.equalBtn{
-    background-color: #fb7;
+.equalbutton {
+    background-color: #f17a18;
+}
+
+.operator {
+    color: #6dee;
 }
